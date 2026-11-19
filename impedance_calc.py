@@ -24,3 +24,5 @@ print(x[i])
 impedanceMag_bass = bass_abs["Impedance [Ohm]"]
 impedanceMag_med = med_abs["Impedance [Ohm]"]
 impedanceMag_High = High_abs["Impedance [Ohm]"]
+
+#if possible, tp finish <3
